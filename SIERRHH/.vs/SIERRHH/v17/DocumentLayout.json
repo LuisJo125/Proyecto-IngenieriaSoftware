@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|c:\\users\\luisj\\repositorioingenieria\\proyecto-ingenieriasoftware\\sierrhh\\sierrhh\\models\\perfilprofesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|solutionrelative:sierrhh\\models\\perfilprofesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|Elementos de la soluci\u00F3n{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|Elementos de la soluci\u00F3n{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|c:\\users\\luisj\\repositorioingenieria\\proyecto-ingenieriasoftware\\sierrhh\\sierrhh\\models\\usuarioempleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|solutionrelative:sierrhh\\models\\usuarioempleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|c:\\users\\luisj\\repositorioingenieria\\proyecto-ingenieriasoftware\\sierrhh\\sierrhh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|solutionrelative:sierrhh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|Elementos de la soluci\u00F3n{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|Elementos de la soluci\u00F3n{4F1CBFCF-2E94-41B1-BD66-80D088A4C0FC}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5BC4FBF-D47D-4DF9-91A5-2EF5854DF57C}|SIERRHH\\SIERRHH.csproj|c:\\users\\luisj\\repositorioingenieria\\proyecto-ingenieriasoftware\\sierrhh\\sierrhh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PerfilProfesional.cs",
+              "DocumentMoniker": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\SIERRHH\\Models\\PerfilProfesional.cs",
+              "RelativeDocumentMoniker": "SIERRHH\\Models\\PerfilProfesional.cs",
+              "ToolTip": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\SIERRHH\\Models\\PerfilProfesional.cs",
+              "RelativeToolTip": "SIERRHH\\Models\\PerfilProfesional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:39:21.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsuarioEmpleadocs.cs",
               "DocumentMoniker": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\SIERRHH\\Models\\UsuarioEmpleadocs.cs",
               "RelativeDocumentMoniker": "SIERRHH\\Models\\UsuarioEmpleadocs.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": ".gitignore.txt",
               "DocumentMoniker": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\.gitignore.txt",
               "RelativeDocumentMoniker": ".gitignore.txt",
@@ -83,11 +100,12 @@
               "RelativeToolTip": ".gitignore.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-02T21:11:22.227Z"
+              "WhenOpened": "2024-05-02T21:11:22.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\SIERRHH\\appsettings.json",
               "RelativeDocumentMoniker": "SIERRHH\\appsettings.json",
@@ -99,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\luisj\\RepositorioIngenieria\\Proyecto-IngenieriaSoftware\\SIERRHH\\SIERRHH\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SIERRHH\\Controllers\\HomeController.cs",
@@ -107,8 +125,7 @@
               "RelativeToolTip": "SIERRHH\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T20:50:27.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T20:50:27.317Z"
             }
           ]
         },
